@@ -1,0 +1,7 @@
+@import "tailwindcss";
+/* index.css */
+.bg-paper {
+  background-image: url('https://img.freepik.com/free-vector/leafy-patterned-note-background_53876-97734.jpg?semt=ais_hybrid&w=740&q=80');
+  background-size: cover;
+  background-position: center;
+}
